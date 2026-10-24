@@ -1,0 +1,9 @@
+{
+  "appId": "com.arcuo.app",
+  "appName": "Arcuo",
+  "webDir": "www",
+  "backgroundColor": "#141922",
+  "plugins": {
+    "StatusBar": { "style": "DARK", "backgroundColor": "#141922", "overlaysWebView": false }
+  }
+}
